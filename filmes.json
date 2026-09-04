@@ -1,32 +1,8 @@
 [
-  {
-    "titulo": "Star Wars: O Mandalorian e Grogu",
-    "capa": "https://i.imgur.com/82.png",
-    "video": "https://youtu.be/vTXUn2cGkl4"
-  },
-  {
-    "titulo": "Avatar: Fogo e Cinza",
-    "capa": "https://i.imgur.com/82.png",
-    "video": "https://youtu.be/xPuQDtdHwBk"
-  },
-  {
-    "titulo": "Deadpool & Wolverine",
-    "capa": "https://i.imgur.com/82.png",
-    "video": "https://youtu.be/73_1biulkYk"
-  },
-  {
-    "titulo": "Duna: Parte 2",
-    "capa": "https://i.imgur.com/82.png",
-    "video": "https://youtu.be/Way9Dexny3w"
-  },
-  {
-    "titulo": "Homem-Aranha: Aranhaverso",
-    "capa": "https://i.imgur.com/82.png",
-    "video": "https://youtu.be/cqGjhVJWtEg"
-  },
-  {
-    "titulo": "The Batman",
-    "capa": "https://i.imgur.com/82.png",
-    "video": "https://youtu.be/u34gTkIBxzE"
-  }
+  {"titulo": "Star Wars: O Mandalorian e Grogu", "capa": "https://i.imgur.com/82.png", "video": "https://youtu.be/vTXUn2cGkl4"},
+  {"titulo": "Avatar: Fogo e Cinza", "capa": "https://i.imgur.com/82.png", "video": "https://youtu.be/xPuQDtdHwBk"},
+  {"titulo": "Deadpool & Wolverine", "capa": "https://i.imgur.com/82.png", "video": "https://youtu.be/73_1biulkYk"},
+  {"titulo": "Duna: Parte 2", "capa": "https://i.imgur.com/82.png", "video": "https://youtu.be/Way9Dexny3w"},
+  {"titulo": "Homem-Aranha: Aranhaverso", "capa": "https://i.imgur.com/82.png", "video": "https://youtu.be/cqGjhVJWtEg"},
+  {"titulo": "The Batman", "capa": "https://i.imgur.com/82.png", "video": "https://youtu.be/u34gTkIBxzE"}
 ]
